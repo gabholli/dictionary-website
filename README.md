@@ -1,2 +1,24 @@
-# book-website
-A website craeted using Next.js and Tailwind CSS drawing from a book API
+# Project Title
+Book Website
+
+## Description
+This project contains files for a dog information website, created using the following:
+
+- React.js
+- TypeScript
+- Tailwind CSS
+- Next.js
+
+## Getting Started
+### Dependencies
+- Runs within one's web browser of choice
+### Installing
+- This web page does not require any direct installation on your computer
+### Executing program
+- To execute, navigate within your web browser to [place website address here]
+
+## Authors
+Gabe Hollifield 
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
