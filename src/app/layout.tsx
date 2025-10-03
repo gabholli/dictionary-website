@@ -11,7 +11,7 @@ export default function RootLayout({
     <html lang="en">
       <title>Free Dictionary</title>
       <body
-        className="font-garamond"
+        className="font-mono"
       >
         <Header />
         {children}
