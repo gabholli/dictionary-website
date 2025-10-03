@@ -1,8 +1,8 @@
 # Project Title
-Book Website
+Free Dictionary
 
 ## Description
-This project contains files for a dog information website, created using the following:
+This project contains files for an online dictionary, created using the following:
 
 - React.js
 - TypeScript
