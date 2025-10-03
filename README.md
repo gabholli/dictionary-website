@@ -15,7 +15,7 @@ This project contains files for a dog information website, created using the fol
 ### Installing
 - This web page does not require any direct installation on your computer
 ### Executing program
-- To execute, navigate within your web browser to [place website address here]
+- To execute, navigate within your web browser to https://gabholli-dictionary-site.netlify.app/
 
 ## Authors
 Gabe Hollifield 
