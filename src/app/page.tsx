@@ -30,8 +30,8 @@ export default function WordInfo() {
 
   const wordData = word ? (
     <div className="flex flex-col items-center gap-y-2 text-center mt-2 px-4">
+      <h2 className="text-4xl md:text-5xl mb-4">{word.word}</h2>
       <audio controls src={word.phonetics?.[0]?.audio || undefined} />
-      <h2 className="text-4xl md:text-5xl">{word.word}</h2>
       {word.meanings.map((meaning: Meaning, index: number) => (
         <div key={index} className="flex flex-col items-center gap-y-4 mt-2">
           <h3 className="text-2xl md:text-4xl underline">{meaning.partOfSpeech}</h3>

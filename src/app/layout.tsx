@@ -9,6 +9,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <title>Free Dictionary</title>
       <body
         className="font-mono"
       >
